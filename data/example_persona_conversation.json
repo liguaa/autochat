@@ -1,0 +1,10 @@
+{
+  "confirmed_facts": [],
+  "messages": [
+    {"role": "contact", "text": "在吗，想跟你说个事"}
+  ],
+  "style_profile": {
+    "preset": "mine",
+    "samples": ["在，咋了", "行，我晚点看哈"]
+  }
+}

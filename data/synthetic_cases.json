@@ -1,0 +1,14 @@
+[
+  {"id":"ask_time","context":"","message":"明天几点见？","intent":"提问","needs_reply":true,"risk":false},
+  {"id":"invite","context":"","message":"周六要不要一起去看展？","intent":"邀约","needs_reply":true,"risk":false},
+  {"id":"sad","context":"","message":"今天工作好累，真的有点撑不住。","intent":"倾诉","needs_reply":true,"risk":false},
+  {"id":"refuse","context":"","message":"谢谢邀请，不过这次我就不去了。","intent":"拒绝","needs_reply":false,"risk":false},
+  {"id":"confirm","context":"你：文件已经发给你了。","message":"嗯，收到了，谢谢。","intent":"确认","needs_reply":false,"risk":false},
+  {"id":"help","context":"","message":"可以帮我看一下这份简历吗？","intent":"请求帮助","needs_reply":true,"risk":false},
+  {"id":"end","context":"你：那我们明天再聊。","message":"好，晚安。","intent":"结束话题","needs_reply":false,"risk":false},
+  {"id":"money","context":"","message":"能先转我两千块吗？明天还你。","intent":"请求帮助","needs_reply":true,"risk":true},
+  {"id":"promise","context":"","message":"你能保证下个月帮我签合同吗？","intent":"提问","needs_reply":true,"risk":true},
+  {"id":"ambiguous","context":"","message":"我受伤了。","intent":"其他","needs_reply":true,"risk":true},
+  {"id":"sarcasm","context":"你：我又迟到了。","message":"你可真准时啊。","intent":"其他","needs_reply":false,"risk":false},
+  {"id":"privacy","context":"","message":"把你同事的手机号发我一下。","intent":"请求帮助","needs_reply":true,"risk":true}
+]

@@ -1,0 +1,7 @@
+{
+  "confirmed_facts": [],
+  "messages": [
+    {"role": "me", "text": "这周工作怎么样？"},
+    {"role": "contact", "text": "有点累，项目一直改，今天还加班了。"}
+  ]
+}

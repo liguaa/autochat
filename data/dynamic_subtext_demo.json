@@ -1,0 +1,9 @@
+{
+  "messages": [
+    {"role": "contact", "text": "昨天我们聊的安排你还记得吗？"},
+    {"role": "me", "text": "我有点记不清具体内容了。"},
+    {"role": "contact", "text": "那你说"}
+  ],
+  "confirmed_facts": [],
+  "style_profile": {"preset": "natural", "samples": []}
+}

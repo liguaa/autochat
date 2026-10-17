@@ -1,0 +1,11 @@
+{
+  "confirmed_facts": [],
+  "messages": [
+    {"role": "me", "text": "周六一起去看展吗？"},
+    {"role": "contact", "text": "行"},
+    {"role": "me", "text": "那下午两点在门口见？"},
+    {"role": "contact", "text": "行"},
+    {"role": "me", "text": "临时有事，咱们改天再约吧。"},
+    {"role": "contact", "text": "行"}
+  ]
+}

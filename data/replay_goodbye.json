@@ -1,0 +1,7 @@
+{
+  "confirmed_facts": [],
+  "messages": [
+    {"role": "me", "text": "那先这样，早点休息。"},
+    {"role": "contact", "text": "好，晚安。"}
+  ]
+}
